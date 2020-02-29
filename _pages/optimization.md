@@ -4,7 +4,7 @@ permalink: /optimization/
 title: "Optimization problem with Python"
 author_profile: true
 header:
-    image: "/images/opt.jpg"
+  image: "/images/opt.jpg"
 ---
 
 {% include base_path %}
